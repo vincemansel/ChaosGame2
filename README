@@ -1,0 +1,6 @@
+Chaos game draws a coherent fractal image for certain combinations of vertices and dividers
+based on a random rendering technique. 3 vertices and a 2 divider create a compelling result.
+This program is an experimental simulation to discovery if # of vertices > 3 and dividers > 2
+yields useful, coherent results.
+
+See http://en.wikipedia.org/wiki/Chaos_game for more info.
